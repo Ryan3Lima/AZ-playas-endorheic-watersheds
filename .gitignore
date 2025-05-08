@@ -1,3 +1,5 @@
 .venv/
+.cache/
 cache/
-aiohttp_cache.sqlite
+*.sqlite
+.idea/
