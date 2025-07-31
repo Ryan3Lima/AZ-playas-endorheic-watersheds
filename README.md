@@ -6,7 +6,7 @@ This repository and dataset was created as part of the Arizona Tri-University Re
 
 ## Analysis
 
-The `Notebooks\` directory has a jupyter notebooks with code showing how the playas and endoheic basins were delinated. 
+The `Notebooks\` directory has a jupyter notebooks with code showing how the playas and endoheic basins were delinated from the National Hydrography Dataset. 
  
  
 
