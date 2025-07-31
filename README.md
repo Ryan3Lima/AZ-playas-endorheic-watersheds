@@ -2,7 +2,7 @@ This repository and dataset was created as part of the Arizona Tri-University Re
 
 # Recharge Potential in Endorheic Basins and Playas in Arizona 
 
-#### Ryan Lima, Ph.D. 
+#### Author: Ryan Lima, Ph.D. 
 
  
  
