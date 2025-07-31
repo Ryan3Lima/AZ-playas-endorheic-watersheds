@@ -4,6 +4,9 @@ This repository and dataset was created as part of the Arizona Tri-University Re
 
 #### Author: Ryan Lima, Ph.D. 
 
+## Analysis
+
+The `Notebooks\` directory has a jupyter notebooks with code showing how the playas and endoheic basins were delinated. 
  
  
 
